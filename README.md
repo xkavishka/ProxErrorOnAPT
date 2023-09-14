@@ -1,4 +1,4 @@
-# ProxErrorOnAPT
+# ProxyErrorOnAPT
 ### How to Configure APT Package Manager for Proxy Usage
 
 Introduction:
